@@ -7,6 +7,7 @@
     <!-- <item>
         <bitmap
             android:gravity="center"
-            android:src="@mipmap/launch_image" />
-    </item> -->
+            android:src="@drawable/splash" />
+    </item>
+    -->
 </layer-list>
